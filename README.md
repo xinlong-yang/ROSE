@@ -1,5 +1,6 @@
 # ROSE
 Code for 'ROSE: Relational and Prototypical Structure Learning for Efficient Universal Domain Adaptive Retrieval'【Underreview】
+
 ![image](https://github.com/xinlong-yang/ROSE/assets/73691354/b65f9cdc-9f28-43ec-9732-592d94a004e9)
 
 
@@ -12,3 +13,4 @@ After modify the data path in the 'run.py', use this command in the terminal to 
 
 
 ## Evaluation
+After training, modidy the checkpoint file path in the 'run.py', use this command in the terminal to evaluate the trained model: 'python run.py --evaluate'
