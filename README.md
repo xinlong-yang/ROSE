@@ -8,8 +8,7 @@ The benchmark dataset used in this paper is Office-Home, Office-31, and VisDA. Y
 
 
 ## Training
-
-
+After modify the data path in the 'run.py', use this command in the terminal to train the retrieval model: 'python run.py --train', and the checkpoint, generated hash code will be stored
 
 
 ## Evaluation
