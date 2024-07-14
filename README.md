@@ -1,5 +1,5 @@
 # ROSE
-Code for 'ROSE: Relational and Prototypical Structure Learning for Efficient Universal Domain Adaptive Retrieval'【Underreview】
+Code for 'ROSE: Relational and Prototypical Structure Learning for Efficient Universal Domain Adaptive Retrieval'【TIFS】
 
 ![image](https://github.com/xinlong-yang/ROSE/assets/73691354/b65f9cdc-9f28-43ec-9732-592d94a004e9)
 
